@@ -17,7 +17,7 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.svg
 
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC_TOKEN_GRAPH }}
 
           base: ""
 
